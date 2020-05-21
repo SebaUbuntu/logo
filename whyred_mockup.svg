@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="whyred_mockup.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 300 300"
+   height="300mm"
+   width="300mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="703"
+     inkscape:window-width="1360"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="540.93826"
+     inkscape:cx="615.68406"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid10"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Livello 1">
+    <rect
+       ry="9.6455126"
+       y="27.028435"
+       x="92.134705"
+       height="245.94313"
+       width="115.7306"
+       id="rect26"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.264933;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       ry="4.8198681"
+       y="43.491879"
+       x="96.450836"
+       height="212.67107"
+       width="107.09832"
+       id="rect851"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       ry="0"
+       rx="2.0813107"
+       y="35.316895"
+       x="141.89297"
+       height="3.1900535"
+       width="16.214058"
+       id="rect853"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.286488;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       rx="2.5"
+       y="34.477097"
+       x="167.70641"
+       height="5"
+       width="5"
+       id="rect855"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1"
+       id="rect857"
+       width="5"
+       height="5"
+       x="176.70212"
+       y="34.477097"
+       rx="2.5" />
+    <circle
+       r="2.8"
+       cy="36.820995"
+       cx="129.65263"
+       id="path859"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       ry="0"
+       rx="2.5000002"
+       y="75.131096"
+       x="207.88422"
+       height="34.527927"
+       width="1.0802076"
+       id="rect861"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.185501;stroke-opacity:1;fill-opacity:1"
+       id="rect863"
+       width="1.1592895"
+       height="15.814499"
+       x="207.84468"
+       y="118.48319"
+       rx="2.6830251"
+       ry="0" />
+  </g>
+</svg>
