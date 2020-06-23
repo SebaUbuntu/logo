@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="138"
+   height="20"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="works on-my machine-green.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="/home/seba/Scrivania/works on-my machine-green.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="703"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="32.71831"
+     inkscape:cy="11.993884"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16" />
+  <linearGradient
+     id="s"
+     x2="0"
+     y2="100%">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop4" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       width="138"
+       height="20"
+       rx="3"
+       fill="#fff"
+       id="rect7" />
+  </clipPath>
+  <g
+     clip-path="url(#r)"
+     id="g16">
+    <path
+       id="rect10"
+       style="fill:#555555"
+       d="M 2.5058885,0 H 61 V 20 C 61,20 11.814833,20 2.5058885,20 1.1176263,20 0,18.882374 0,17.494112 V 2.5058885 C 0,1.1176263 1.1176263,0 2.5058885,0 Z"
+       sodipodi:nodetypes="ccccssc" />
+    <path
+       id="rect12"
+       style="fill:#97ca00"
+       d="M 135.12029,0 C 136.71565,0 138,1.2843529 138,2.879715 v 14.24057 C 138,18.715647 136.71565,20 135.12029,20 H 61 V 0 c 0,0 53.64759,0 74.12029,0 z"
+       sodipodi:nodetypes="csscccc" />
+    <rect
+       width="138"
+       height="20"
+       fill="url(#s)"
+       id="rect14"
+       x="0"
+       y="0"
+       ry="2.9106078" />
+  </g>
+  <g
+     fill="#fff"
+     text-anchor="middle"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="110"
+     id="g26">
+    <text
+       x="315"
+       y="150"
+       fill="#010101"
+       fill-opacity=".3"
+       transform="scale(.1)"
+       textLength="510"
+       id="text18">works on</text>
+    <text
+       x="315"
+       y="140"
+       transform="scale(.1)"
+       textLength="510"
+       id="text20">works on</text>
+    <text
+       x="985"
+       y="150"
+       fill="#010101"
+       fill-opacity=".3"
+       transform="scale(.1)"
+       textLength="670"
+       id="text22">my machine</text>
+    <text
+       x="985"
+       y="140"
+       transform="scale(.1)"
+       textLength="670"
+       id="text24">my machine</text>
+  </g>
+</svg>
