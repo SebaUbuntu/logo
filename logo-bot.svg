@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="84.666664"
+   inkscape:export-xdpi="84.666664"
+   inkscape:export-filename="/home/seba/Scrivania/logo-bot.png"
+   sodipodi:docname="logo-bot.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 300 300"
+   height="300mm"
+   width="300mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4562"
+       inkscape:collect="always">
+      <stop
+         id="stop4558"
+         offset="0"
+         style="stop-color:#0072ff;stop-opacity:1" />
+      <stop
+         id="stop4560"
+         offset="1"
+         style="stop-color:#00c6ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(24.004037,0,0,23.999928,705.70376,-2844.5285)"
+       gradientUnits="userSpaceOnUse"
+       y2="126.76616"
+       x2="-20.710087"
+       y1="120.60472"
+       x1="-25.591993"
+       id="linearGradient845"
+       xlink:href="#linearGradient4562"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.80006575,0,0,0.80006571,-81.359201,218.70942)"
+       gradientUnits="userSpaceOnUse"
+       y2="47.335827"
+       x2="282.67517"
+       y1="27.130253"
+       x1="252.87387"
+       id="linearGradient859"
+       xlink:href="#linearGradient4562"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="703"
+     inkscape:window-width="1360"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="651.31505"
+     inkscape:cx="252.54375"
+     inkscape:zoom="0.35355339"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid12"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,3)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Livello 1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path13"
+       d="M 197.65031,60.71258 H 134.1499 c 0,0 -31.80021,0 -31.80021,31.749973 0,31.749997 31.80021,31.749997 31.80021,31.749997 h 31.70021 c 0,0 31.8002,0 31.8002,31.74975 0,31.74998 -31.8002,31.74998 -31.8002,31.74998 h -63.50042"
+       style="fill:none;stroke:url(#linearGradient845);stroke-width:24.002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="6.3499808"
+       rx="6.3510675"
+       cy="187.71201"
+       cx="102.34964"
+       id="path847"
+       style="fill:#ffffff;stroke-width:24.002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <ellipse
+       ry="6.3499808"
+       rx="6.3510675"
+       style="fill:#ffffff;stroke-width:24.002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle849"
+       cx="197.53799"
+       cy="60.712639" />
+    <text
+       transform="scale(1.0000855,0.9999145)"
+       id="text46"
+       y="257.36057"
+       x="108.26688"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.6433px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Medium';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient859);fill-opacity:1;stroke:none;stroke-width:0.211684"
+       xml:space="preserve"><tspan
+         style="fill:url(#linearGradient859);fill-opacity:1;stroke-width:0.211684"
+         id="tspan44"
+         y="257.36057"
+         x="108.26688"
+         sodipodi:role="line">BOT</tspan></text>
+  </g>
+</svg>
