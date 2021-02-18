@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="11.98 11.81 42.938998 19.19"
+   style="fill:#167c80"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="lineage-logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   width="42.938999"
+   height="19.190001">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="835"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="3.8358528"
+     inkscape:cx="88.288763"
+     inkscape:cy="15.279146"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
+  <path
+     d="m 49.498779,21.500419 a 4,4 0 0 0 -3,1.33 l -0.23,-0.09 a 29.62,29.62 0 0 0 -4.77,-1.43 v 0 a 8,8 0 0 0 -16,0 h -0.22 a 29.53,29.53 0 0 0 -4.6,1.39 l -0.23,0.09 a 4,4 0 1 0 0.93,1.78 v 0 a 27.62,27.62 0 0 1 4.29,-1.29 8,8 0 0 0 15.57,0 27.55,27.55 0 0 1 4.29,1.28 v 0 a 4,4 0 1 0 3.97,-3.06 z m -32,6 a 2,2 0 1 1 2,-2 2,2 0 0 1 -2,2 z m 16,0 a 6,6 0 1 1 6,-6 6,6 0 0 1 -6,6 z m 16,0 a 2,2 0 1 1 2,-2 2,2 0 0 1 -2,2 z m -13,-6 a 3,3 0 1 1 -3,-3 3,3 0 0 1 3,3 z"
+     id="path4" />
+</svg>
