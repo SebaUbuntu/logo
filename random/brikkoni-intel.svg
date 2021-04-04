@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="brikkoni-intel.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 200 200"
+   height="200mm"
+   width="200mm"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/seba/Scrivania/brikkoni.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127">
+  <defs
+     id="defs2">
+    <rect
+       x="3.1364856"
+       y="9.9908788"
+       width="187.99614"
+       height="172.2855"
+       id="rect12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#02c1fc"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="327.53293"
+     inkscape:cy="419.87812"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.766507"
+       y="119.07481"
+       id="text996"><tspan
+         id="tspan994">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.611523"
+       y="119.07481"
+       id="text1000"><tspan
+         id="tspan998">r</tspan></text>
+    <g
+       aria-label="i"
+       id="text1004"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583">
+      <path
+         d="m 70.058285,118.05781 q 0,0.44649 -0.297656,0.74414 -0.297656,0.27286 -0.719336,0.27286 h -2.430859 q -0.372071,0 -0.694532,-0.29766 -0.322461,-0.29766 -0.322461,-0.71934 V 92.161721 q 0,-0.42168 0.297657,-0.719336 0.297656,-0.297656 0.719336,-0.297656 h 2.430859 q 0.471289,0 0.744141,0.272851 0.272851,0.272852 0.272851,0.744141 z"
+         id="path1077" />
+      <path
+         d="m 70.157505,85.638088 q 0,0.446484 -0.297656,0.744141 -0.297657,0.272851 -0.719336,0.272851 h -2.579688 q -0.421679,0 -0.719336,-0.297656 -0.297656,-0.297656 -0.297656,-0.719336 v -4.043164 q 0,-0.42168 0.272852,-0.719336 0.297656,-0.297656 0.74414,-0.297656 h 2.579688 q 0.471289,0 0.74414,0.272851 0.272852,0.272852 0.272852,0.744141 z"
+         id="path1072"
+         style="fill:#0370b7;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.139023"
+       y="119.07481"
+       id="text1008"><tspan
+         id="tspan1006">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.1632"
+       y="119.07481"
+       id="text1012"><tspan
+         id="tspan1010">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.71653"
+       y="119.07481"
+       id="text1016"><tspan
+         id="tspan1014">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.38622"
+       y="119.07481"
+       id="text1020"><tspan
+         id="tspan1018">n</tspan></text>
+    <g
+       aria-label="i"
+       id="text1024"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Neo Sans Intel';-inkscape-font-specification:'Neo Sans Intel';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583">
+      <path
+         d="m 182.77015,118.05781 q 0,0.44649 -0.29766,0.74414 -0.29766,0.27286 -0.71934,0.27286 h -2.43086 q -0.37207,0 -0.69453,-0.29766 -0.32246,-0.29766 -0.32246,-0.71934 V 92.161721 q 0,-0.42168 0.29766,-0.719336 0.29765,-0.297656 0.71933,-0.297656 h 2.43086 q 0.47129,0 0.74414,0.272851 0.27286,0.272852 0.27286,0.744141 z"
+         id="path1070" />
+      <path
+         d="m 182.86935,85.638088 q 0,0.446484 -0.29765,0.744141 -0.29766,0.272851 -0.71934,0.272851 h -2.57969 q -0.42168,0 -0.71933,-0.297656 -0.29766,-0.297656 -0.29766,-0.719336 v -4.043164 q 0,-0.42168 0.27285,-0.719336 0.29766,-0.297656 0.74414,-0.297656 h 2.57969 q 0.47129,0 0.74414,0.272851 0.27285,0.272852 0.27285,0.744141 z"
+         id="path1065"
+         style="fill:#0370b7;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
